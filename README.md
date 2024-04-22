@@ -8,3 +8,5 @@ churn modelling dataset - https://www.kaggle.com/code/sardorwwe/churn-modelling-
 admission prediction - https://www.kaggle.com/code/shabiransari/input-admission-predict-ver1-1-csv/input?select=Admission_Predict_Ver1.1.csv
 
 traffic-light-dataset - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data
+
+Car Sales Price dataset - https://www.kaggle.com/datasets/yashpaloswal/ann-car-sales-price-prediction/data
