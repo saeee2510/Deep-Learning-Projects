@@ -6,3 +6,5 @@ breast cancer dataset - https://www.kaggle.com/code/thebrownviking20/intro-to-ke
 churn modelling dataset - https://www.kaggle.com/code/sardorwwe/churn-modelling-predicted/input
 
 admission prediction - https://www.kaggle.com/code/shabiransari/input-admission-predict-ver1-1-csv/input?select=Admission_Predict_Ver1.1.csv
+
+traffic-light-dataset - https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign/data
